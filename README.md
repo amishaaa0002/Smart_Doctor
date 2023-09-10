@@ -1,4 +1,4 @@
-# Smart Doctor Web Application
+# Smart Doctor
 
 Smart Doctor is an ongoing web application project that leverages machine learning, data analysis, and Flask to predict diseases such as Heart Disease, Diabetes, and Breast Cancer based on report results. It further integrates a Recommender System to provide personalized treatment plans, medicines, and recommendations.
 
